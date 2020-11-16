@@ -12,8 +12,7 @@
 * CSS
 * JavaScript
 * SASS
-* AJAX
-* JSON
+* PHP
 
 ## Authors:
 * Jordan Andrigo (aka JORDMISTER3000)
